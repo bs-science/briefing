@@ -1,0 +1,7 @@
+.sim-note { color: var(--muted); font-size: .8rem; }
+.tiny-metrics { display: grid; grid-template-columns: repeat(2,1fr); gap: 9px; }
+.tiny-metric { padding: 11px; border: 1px solid var(--line); border-radius: 12px; background: rgba(255,255,255,.025); }
+.tiny-metric small { color: var(--muted); }
+.tiny-metric b { display: block; margin-top: 3px; font-size: 1.08rem; font-variant-numeric: tabular-nums; }
+.axis-callout { color: var(--amber); font-weight: 800; }
+
