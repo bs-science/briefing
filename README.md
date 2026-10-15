@@ -9,3 +9,7 @@ NaCl 농도에 따른 mCP 흡수 스펙트럼 연구를 위한 10쪽 HTML 발표
 - 공통 스타일은 `css/`, 공통 동작은 `js/` 폴더에 있습니다.
 
 시뮬레이션 수치는 설명용 가상 데이터이며 실제 예상 결과가 아닙니다.
+
+
+
+<a href="https://docs.google.com/document/d/1W3iwzcw_M2gicK66C1hETjYmg-kLhLb_cQNe3JgwW-g/edit?tab=t.0">실험 계획서 초안</a>
